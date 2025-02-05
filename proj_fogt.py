@@ -1,3 +1,9 @@
+"""
+Autorzy:
+- Jędrzej Olechowski
+- Jakub Szalacha
+"""
+
 import pygame
 import sys
 import numpy as np
