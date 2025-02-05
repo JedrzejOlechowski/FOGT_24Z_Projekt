@@ -2,6 +2,11 @@
 Autorzy:
 - Jędrzej Olechowski
 - Jakub Szalacha
+
+Instrukcja:
+A - dodawanie fali
+R - usuwanie fali
+Z - kasowanie wszystkich dodanych fali
 """
 
 import pygame
